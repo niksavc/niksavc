@@ -7,6 +7,6 @@
 </details>
 
 #
-![Unicode](https://img.shields.io/badge/-%20-%235455FE?logo=unicode&logoColor=white&style=flat)
-![Hugging Face](https://img.shields.io/badge/-%20-%23FFD21E?logo=huggingface&logoColor=black&style=flat)
+[![Unicode](https://img.shields.io/badge/-%20-%235455FE?logo=unicode&logoColor=white&style=for-the-badge)](https://unicode.org)
+[![Hugging Face](https://img.shields.io/badge/-%20-%23FFD21E?logo=huggingface&logoColor=black&style=for-the-badge)](https://huggingface.co)
 <!--- mix-blend-mode: exclusion; ---!>
